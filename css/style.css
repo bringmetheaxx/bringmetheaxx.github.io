@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@500&family=Tomorrow:ital,wght@1,900&display=swap');
+
+body {
+  background-color: #000000;
+}
+
+.container {
+  position: absolute;
+  margin: 20px;
+  width: auto;
+}
+
+.home {
+  overflow: hidden;
+}
+
+.home a {
+  float: left;
+  color: #ef0098;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+  font-family: 'Tomorrow', sans-serif;
+}
+.home a:hover {
+  background-color: #2f2f31;
+  color: #9947a8;
+}
+
+#bmtaxxneon {
+    width: 1476px;
+    height: 442px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+.boxed {
+    border: 5px solid #d600ff;
+    position: relative;
+    right: -400px; 
+    height: 1600px;
+    width: 1000px;
+    bottom: 120px;
+  }
+
+h1 {
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 35px;
+    color:  #00ff9f;
+}  
+
+#github {
+  width: 300px;
+  height: 300px;
+}
+
+#twitter {
+  width: 300px;
+  height: 300px;
+}
+
+#linkedin {
+  width: 300px;
+  height: 300px;
+}
+
+#instagram {
+  width: 300px;
+  height: 300px;
+}
+
+#applemusic {
+  width: 300px;
+  height: 300px;
+}
+
+#reddit {
+  width: 300px;
+  height: 300px;
+}
+
+#unsplash {
+  width: 300px;
+  height: 300px;
+}
+
+#letterboxd {
+  width: 300px;
+  height: 300px;
+}
+
+#spotify {
+  width: 300px;
+  height: 300px;
+}

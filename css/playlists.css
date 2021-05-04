@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@500&family=Tomorrow:ital,wght@1,900&display=swap');
+
+body {
+  background-color: #000000;
+}
+
+.container {
+  position: absolute;
+  margin: 20px;
+  width: auto;
+}
+
+.home {
+  overflow: hidden;
+}
+
+.home a {
+  float: left;
+  color: #00c6f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+  font-family: 'Tomorrow', sans-serif;
+}
+.home a:hover {
+  background-color: #2f2f31;
+  color: #007ac5;
+}
+
+img {
+    width: 1476px;
+    height: 442px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+iframe{
+      position: relative;
+      right: -675px;
+      box-align:center;
+      width: 500px;
+      height: 900px;
+      margin-top: 20px;
+      margin-bottom: 30px;
+      -moz-border-radius: 12px;
+      -webkit-border-radius: 12px;
+      border-radius: 12px;
+      -moz-box-shadow: 4px 4px 14px #000;
+      -webkit-box-shadow: 4px 4px 14px #000;
+      box-shadow: 4px 4px 14px #000;;
+      } 
