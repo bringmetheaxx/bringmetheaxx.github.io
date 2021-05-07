@@ -1,4 +1,3 @@
-
 # Backlog
 
 What the visitor/user of the website will get.
