@@ -2,11 +2,12 @@
 
 ## Communication Schedule - Week 1
 
-| Day | Time | The topic of discussion |
-|04.05| 19:00 |Interview               |
-|05.05| 17:00 |Feedback and Proposition|
-|06.05| 19:00 |Backlog, Wireframe      |
-|07.05| 18:00 |Retrospective           |
+| Day       |    Time    |    The topic of discussion      |
+| --------- | :---------: |  :---------: |
+| 04.05    | 19:00 | Interview   |
+| 05.05   | 17:00 | Feedback and Proposition|
+| 06.05 | 19:00 | Backlog, Wireframe |
+| 07.05  | 18:00 | Retrospective   |
 
 ## Availability - Week 1
 
