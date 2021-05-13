@@ -19,6 +19,8 @@
 | Thursday  | after 13:00 | 17:00 - 00:00|
 | Friday    | after 13:00 | 18:00 - 00:00|
 
+## Availability - Week 2
+
 | Day       |     Áxil    |
 | --------- | :---------: |
 | Monday    |20:00 - 00:00|
