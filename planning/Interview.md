@@ -22,10 +22,10 @@
 ## Waitings for site🪄
     
 - Axil want a site with atmosphere of magic, miracle, fun, relax
-    - The slogan could be **_Magic...and the code is ready!_** 🪄
+  - The slogan could be **_Magic...and the code is ready!_** 🪄
 - That site for everybody, any gender and age
 - He don`t want a professional, customer oriented site
-- It should be a site About Axil, that will show him, **as a person**, not as a profeshional
+- It should be a site About Axil, that will show him, **as a person**, not as a professional
 - Favorite colors: pink, purple, red, like Unicorn 
 - Multiple pages
   - Horizontal (without scrolling)
