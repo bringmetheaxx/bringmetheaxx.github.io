@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@500&family=Tomorrow:ital,wght@1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&display=swap');
 
 body {
   background-color: #FFB2E6;
@@ -6,7 +7,7 @@ body {
 
 .container {
   position: absolute;
-  margin: 20px;
+  margin: 20%;
   width: auto;
 }
 
@@ -15,17 +16,17 @@ body {
 }
 
 .home a {
-  float: left;
-  color: #ef0098;
+  float: right;
+  color: #8447FF;
   text-align: center;
-  padding: 14px 16px;
+  padding: 2% 1%;
   text-decoration: none;
-  font-size: 20px;
-  font-family: 'Tomorrow', sans-serif;
+  font-size: 100%;
+  font-family: 'Berkshire Swash', cursive;
 }
 .home a:hover {
-  background-color: #2f2f31;
-  color: #9947a8;
+  background-color: transparent;
+  color: #FFFFE8;
 }
 
 #bmtaxxhead {
