@@ -4,29 +4,108 @@ body {
   background-color: #FFB2E6;
 }
 
-.container {
-  position: absolute;
-  margin: 20px;
-  width: auto;
-}
-
-.home {
+.topnav {
+  background-color: transparent;
   overflow: hidden;
 }
-
-.home a {
+.topnav a {
   float: left;
-  color: #9947a8;
+  display: block;
+  color: #8447FF;
   text-align: center;
-  padding: 14px 16px;
+  padding: 14% 16%;
   text-decoration: none;
-  font-size: 20px;
-  font-family: 'Tomorrow', sans-serif;
+  font-size: 100%;
+  font-family:
 }
-.home a:hover {
-  background-color: #2f2f31;
-  color: #00c6f2;
+.active {
+  background-color: transparent;
+  color: #FFFFE8;
 }
+
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+.dropdown .dropbtn {
+  font-size: 100%;
+  border: none;
+  outline: none;
+  color: #8447FF;
+  padding: 14% 16%;
+  background-color: inherit;
+  font-family:
+  margin: 0;
+}
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: transparent;
+  min-width: 160%;
+  z-index: 1;
+}
+.dropdown-content a {
+  float: none;
+  color: #8447FF;
+  padding: 1% 1%;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+  font-family:
+  font-size: 100%;
+}
+.topnav a:hover, .dropdown:hover .dropbtn {
+  background-color: transparent;
+  color: #FFFFE8;
+}
+.dropdown-content a:hover {
+  background-color: transparent;
+  color: #8447FF;
+}
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+@media screen and (max-width: 600px) {
+  .topnav a:not(:first-child), .dropdown .dropbtn {
+display: none;
+  }
+  .topnav a.icon 
+  {
+  float: right;
+  display: block;
+  }
+}
+@media screen 
+{
+  .topnav.responsive 
+  {
+  position: relative;
+}
+  .topnav.responsive a.icon {
+  position: absolute;
+  right: 0;
+  top: 0;
+  }
+  .topnav.responsive a {
+  float: none;
+  display: block;
+  text-align: left;
+  }
+  .topnav.responsive .dropdown 
+  {
+    float: none;
+  }
+  .topnav.responsive .dropdown-content 
+  {
+    position: relative;
+  }
+  .topnav.responsive .dropdown .dropbtn {
+  display: block;
+  width: 100%;
+  text-align: left;
+  }
+} 
 
 img {
   width: 25%;
