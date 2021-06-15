@@ -117,11 +117,12 @@ img {
 
 iframe{
       position: relative;
-      right: -675px;
-      box-align:center;
+      text-align: center;
+      box-align: center;
       width: 500px;
       height: 900px;
       margin-top: 20px;
+      margin-left: 75px;
       margin-bottom: 30px;
       -moz-border-radius: 12px;
       -webkit-border-radius: 12px;
@@ -132,16 +133,16 @@ iframe{
       }
 
 .footer {
-        background-color: #33FFBE;
+        background-color: transparent;
         position: relative;
         height: 20%;
         display: block;
 }
       
 .footer p {
-        color: #8447FF;
+        color: #33FFBE;
         text-align: center;
-        max-width: none;
+        font-size: 150%;
         line-break: auto;
         margin: auto;
 }

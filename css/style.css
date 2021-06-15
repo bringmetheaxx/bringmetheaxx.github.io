@@ -126,16 +126,16 @@ h1
 }
 
 .footer {
-  background-color: #33FFBE;
+  background-color: transparent;
   position: relative;
   height: 20%;
   display: block;
 }
 
 .footer p {
-  color: #8447FF;
+  color: #33FFBE;
   text-align: center;
-  max-width: none;
+  font-size: 150%;
   line-break: auto;
   margin: auto;
 }
