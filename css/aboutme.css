@@ -63,7 +63,6 @@ body {
     display: block;
 }
 
-  
 @media screen and (max-width: 600px) {
     .topnav a:not(:first-child), .dropdown .dropbtn {
 display: none;
@@ -100,4 +99,24 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+.footer {
+    background-color: #33FFBE;
+    position: relative;
+    height: 20%;
+}
+
+.footer p {
+    color: #8447FF;
+    text-align: center;
+    max-width: none;
+    line-break: auto;
+    margin: auto;
+}
+
+.footer nav {
+    word-spacing: 20px;
+    padding-bottom: 20px;
+    text-align: center;
 }

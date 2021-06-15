@@ -124,91 +124,23 @@ h1
     color:  #33FFBE;
     position: relative;
 }
-h2
-  {
-    text-align: center;
-    font-size: 100%;
-    font-family: ;
-    width: 300px;
-    border: 15px solid transparent;
-    padding: 50px;
-    margin: 20px;
-    position: relative;
-    align-items: center;
+.footer {
+  background-color: #33FFBE;
+  position: relative;
+  height: 20%;
+  display: block;
 }
 
-h3
-  {
-    text-align: center;
-    font-family: ;
-    font-size: 100%;
-    width: 300px;
-    border: 15px solid transparent;
-    padding: 50px;
-    margin: 20px;  
-}
-h4
-  {
-    text-align: center;
-    font-size: 100%;
-    font-family: ;
-    width: 300px;
-    border: 15px solid transparent;
-    padding: 50px;
-    margin: 20px;  
-}
-h5
-  {
-    text-align: center;
-    font-size: 100%;
-    font-family: ;
-    width: 300px;
-    border: 15px solid transparent;
-    padding: 50px;
-    margin: 20px;  
+.footer p {
+  color: #8447FF;
+  text-align: center;
+  max-width: none;
+  line-break: auto;
+  margin: auto;
 }
 
-#github {
-  width: 300px;
-  height: 300px;
-}
-
-#twitter {
-  width: 300px;
-  height: 300px;
-}
-
-#linkedin {
-  width: 300px;
-  height: 300px;
-}
-
-#instagram {
-  width: 300px;
-  height: 300px;
-}
-
-#applemusic {
-  width: 300px;
-  height: 300px;
-}
-
-#reddit {
-  width: 300px;
-  height: 300px;
-}
-
-#unsplash {
-  width: 300px;
-  height: 300px;
-}
-
-#letterboxd {
-  width: 300px;
-  height: 300px;
-}
-
-#spotify {
-  width: 300px;
-  height: 300px;
+.footer nav {
+  word-spacing: 20px;
+  padding-bottom: 20px;
+  text-align: center;
 }
