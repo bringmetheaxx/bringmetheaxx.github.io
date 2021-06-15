@@ -28,9 +28,29 @@ body {
   color: #ef0098;
 }
 img {
-    width: 1476px;
-    height: 442px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-  }
+  width: 25%;
+  height: 25%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.footer {
+  background-color: transparent;
+  position: relative;
+  height: 20%;
+  display: block;
+}
+
+.footer p {
+  color: #33FFBE;
+  text-align: center;
+  font-size: 150%;
+  line-break: auto;
+  margin: auto;
+}
+
+.footer nav {
+  word-spacing: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+}
